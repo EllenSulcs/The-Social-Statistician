@@ -4,4 +4,4 @@ navbar:
   title: "The Social Statistician"
   left:
     - text: "Home"
-      href: index.html
+      href: Resume.html
