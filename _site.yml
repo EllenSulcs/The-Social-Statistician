@@ -1,0 +1,7 @@
+name: "The-Social-Statistician"
+output_dir: "."
+navbar:
+  title: "The Social Statistician"
+  left:
+    - text: "Home"
+      href: index.html
